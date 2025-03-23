@@ -5,7 +5,7 @@ This is my submission to the AWS Machine Learning nanodegree  - project 2
 Main Python notebook for the project is named [`starter.ipynb`](./starter.ipynb)
 
 AWS lambda functions are in three python files: 
-* [`serializeImageData.py`](./lambda1-serializeImagaeData.py),
+* [`serializeImageData.py`](./lambda1-serializeImgaeData.py),
 * [`classifyimageData.py`](./lambda2-ImageClassify.py),
 * [`filterLowConfidence.py`](./lambda3-filterLowConfidence.py)
 
