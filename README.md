@@ -5,11 +5,11 @@ This is my submission to the AWS Machine Learning nanodegree  - project 2
 Main Python notebook for the project is named [`starter.ipynb`](./starter.ipynb)
 
 AWS lambda functions are in three python files: 
-* [`serializeImageData.py`](./lambda1-serializeImageData.py),
+* [`serializeImageData.py`](./lambda1-serializeImagaeData.py),
 * [`classifyimageData.py`](./lambda2-ImageClassify.py),
 * [`filterLowConfidence.py`](./lambda3-filterLowConfidence.py)
 
 Step function code file: [`stateMachine.json`](./step-function.json). Graph:
 
 ![stateMachine](./step-function-working.png)
-
+![stateExecution](./state-execution.png)
