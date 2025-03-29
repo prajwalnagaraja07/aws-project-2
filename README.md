@@ -13,3 +13,5 @@ Step function code file: [`stateMachine.json`](./step-function.json). Graph:
 
 ![stateMachine](./step-function-working.png)
 ![stateExecution](./state-execution.png)
+![stateExecution](./state-success.png)
+![stateExecution](./state-failure.png)
